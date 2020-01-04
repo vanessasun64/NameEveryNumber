@@ -6,7 +6,7 @@ baseurl: ''
 url: 'https://nameeverynumber-01e4a.netlify.com/'
 permalink: '/:title'
 favicon: images/favicon.png
-disqus: justgoodthemes
+disqus: nameeverynumber
 navigation:
   - text: Home
     url: /
