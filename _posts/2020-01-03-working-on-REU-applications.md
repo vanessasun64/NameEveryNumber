@@ -16,7 +16,7 @@ layout: post
 
 <!--more-->
 
-I worked on applications for summer research today, which are extremely hard for me because I’ve dealt with so much failure in the past 1.5 yrs including taking a class (multivariable calc) **four times** and almost taking a semester off from school. I had to go through a lot of self doubt and soul searching in order to declare my math major. 
+I worked on applications for summer research today, which are extremely hard for me because I’ve dealt with so much failure in the past 1.5 yrs, including taking a class (multivariable calc) **four times** and almost taking a semester off from school. I had to go through a lot of self doubt and soul searching in order to declare my math major. 
 
 I sob every time I have to do these applications about my experiences with math. It feels like I'm dredging up all my pain and loneliness from that horrible time in my life. I had to do this recently, as I applied for extended funding from my scholarship program for my 5th year in order to finish my math major.
 
