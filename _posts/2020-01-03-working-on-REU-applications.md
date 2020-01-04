@@ -11,7 +11,7 @@ tags:
 layout: post
 ---
 
-“I went to college to be a writer and I will leave it aspiring to be a math professor” *cues rest of essay talking about how I’m an atypical math student & my struggles….*
+“I went to college to be a writer and I will leave it aspiring to be a math professor” *'*cue rest of essay talking about how I’m an atypical math student & my struggles…*'*
 
 <!--more-->
 
