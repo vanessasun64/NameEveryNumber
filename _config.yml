@@ -1,7 +1,9 @@
 accent_color: '#2d72d9'
 lang: en-US
 title: Name Every Number
-description: 'A math blog.'
+description: 
+  - text: tag1
+    url:  'https://nameeverynumber.tumblr.com'
 baseurl: ''
 url: 'https://nameeverynumber-01e4a.netlify.com/'
 permalink: '/:title'
