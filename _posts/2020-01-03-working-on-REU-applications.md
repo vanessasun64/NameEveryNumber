@@ -14,8 +14,8 @@ layout: post
 “I went to college to be a writer and I will leave it aspiring to be a math professor” *cues rest of essay talking about how I’m an atypical math student & my struggles….*
 
 <!--more-->
-Solarized dark                        |  Solarized Ocean
-:------------------------------------:|:-------------------------------------:
-![](images/fountainPenWithEssay.jpg)  |  ![](images/fountainPenWithEssay.jpg)
+Solarized dark                                               |  Solarized Ocean
+:-----------------------------------------------------------:|:-------------------------------------:
+![fountain pen with essay](images/fountainPenWithEssay.jpg)  |  ![image](images/fountainPenWithEssay.jpg)
 
 I worked on applications for summer research, which are suuuuper hard for me because I’ve dealt with so much failure in the past 1.5 yrs including taking a class (multivariable calc) four times and almost taking a semester off from school.
