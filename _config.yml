@@ -21,7 +21,7 @@ navigation:
   - text: YouTube
     url: 'https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme'
 footer:
-  content: "&copy; Vanessa Sun all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
+  content: "&copy; Vanessa Sun, all rights reserved."
   has_social: true
 plugins:
   - jekyll-paginate
