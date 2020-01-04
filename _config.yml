@@ -2,8 +2,8 @@ accent_color: '#2d72d9'
 lang: en-US
 title: Name Every Number
 description: 
-  - text: tag1
-    url:  'https://nameeverynumber.tumblr.com'
+  - text: Home
+    url: 'https://nameeverynumber.tumblr.com'
 baseurl: ''
 url: 'https://nameeverynumber-01e4a.netlify.com/'
 permalink: '/:title'
