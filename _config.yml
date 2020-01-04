@@ -22,8 +22,7 @@ navigation:
     url: 'https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme'
 footer:
   content: >-
-    &copy; Scriptor all rights reserved. Theme by
-    [JustGoodThemes](https://www.justgoodthemes.com).
+    &copy; Vanessa Sun
   has_social: true
 plugins:
   - jekyll-paginate
