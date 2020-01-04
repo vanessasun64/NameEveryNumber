@@ -1,9 +1,9 @@
 accent_color: '#2d72d9'
 lang: en-US
-title: Scriptor
-description: 'Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers'
+title: Name Every Number
+description: 'A math blog'
 baseurl: ''
-url: 'https://scriptor-jekyll.netlify.com'
+url: 'https://nameeverynumber-01e4a.netlify.com/'
 permalink: '/:title'
 favicon: images/favicon.png
 disqus: justgoodthemes
@@ -12,11 +12,13 @@ navigation:
     url: /
   - text: About
     url: /about/
-  - text: Style Guide
+  - text: Contact
     url: /style-guide/
-  - text: Tags
+  - text: Studygram
     url: /tags/
-  - text: Download
+  - text: Studyblr
+    url: 'https://nameeverynumber.tumblr.com'
+  - text: YoutTube
     url: 'https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme'
 footer:
   content: >-
