@@ -15,8 +15,7 @@ layout: post
 
 <!--more-->
 
-![A flatlay of my essay](images/EssayFar.jpg){:height="50%" width="50%"}
-![Closeup of a post it saying "I went to college to be a writer and I will leave it aspiring to be a math professor”](images/PostitCloseup.jpg){:height="50%" width="50%"}
+![A flatlay of my essay](images/EssayFar.jpg){:height="50%" width="50%"} ![Closeup of a post it saying "I went to college to be a writer and I will leave it aspiring to be a math professor”](images/PostitCloseup.jpg){:height="50%" width="50%"}
   
 
 
