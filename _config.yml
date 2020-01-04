@@ -1,7 +1,7 @@
 accent_color: '#ffb900'
 lang: en-US
 title: Name Every Number
-description: 'A math blog'
+description: ''
 baseurl: ''
 url: 'https://nameeverynumber-01e4a.netlify.com/'
 permalink: '/:title'
