@@ -23,7 +23,6 @@ navigation:
 footer:
   content: >-
     &copy; Vanessa Sun
-  has_social: true
 plugins:
   - jekyll-paginate
 paginate: 3
