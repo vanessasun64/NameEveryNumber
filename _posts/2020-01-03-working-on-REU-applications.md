@@ -11,7 +11,7 @@ tags:
 layout: post
 ---
 
-“I went to college to be a writer and I will leave it aspiring to be a math professor” *'*cue rest of essay talking about how I’m an atypical math student & my struggles…*'*
+“I went to college to be a writer and I will leave it aspiring to be a math professor” *cue rest of essay talking about how I’m an atypical math student & my struggles...*
 
 <!--more-->
 
@@ -21,4 +21,4 @@ layout: post
 
 
 
-I worked on applications for summer research, which are suuuuper hard for me because I’ve dealt with so much failure in the past 1.5 yrs including taking a class (multivariable calc) four times and almost taking a semester off from school.
+I worked on applications for summer research, which are extremely hard for me because I’ve dealt with so much failure in the past 1.5 yrs including taking a class (multivariable calc) four times and almost taking a semester off from school. 
