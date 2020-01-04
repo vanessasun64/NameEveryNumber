@@ -15,6 +15,6 @@ layout: post
 
 <!--more-->
 ![A flatlay of my essay](images/EssayFar.jpg)  
-![Closeup of a post it saying "I went to college to be a writer and I will leave it aspiring to be a math professor”](images/fountainPenWithEssay.jpg)
+![Closeup of a post it saying "I went to college to be a writer and I will leave it aspiring to be a math professor”](images/PostitCloseup.jpg)
 
 I worked on applications for summer research, which are suuuuper hard for me because I’ve dealt with so much failure in the past 1.5 yrs including taking a class (multivariable calc) four times and almost taking a semester off from school.
